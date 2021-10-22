@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "totalResults": 1641,
+  "articles": [
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Mariella Moon",
+      "title": "iFixit's Apple Watch Series 7 teardown shows the same display tech as iPhone 13",
+      "description": "iFixit has taken apart the Apple Watch Series 7 and showed that despite having minimal changes on the outside, it does feature some big upgrades underneath. As we mentioned in our review, the main difference between this device and the Series 6 is its slightl…",
+      "url": "https://www.engadget.com/apple-watch-series-7-teardown-ifixit-055346543.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-10/4d0e1b40-32f1-11ec-99eb-57977b25e4bd",
+      "publishedAt": "2021-10-22T05:53:46Z",
+      "content": "iFixit has taken apart the Apple Watch Series 7 and showed that despite having minimal changes on the outside, it does feature some big upgrades underneath. As we mentioned in our review, the main di… [+1535 chars]"
+    }
+  ]
+}

@@ -17,5 +17,5 @@ export interface Article {
 export interface News {
   status: String;
   totalResults: Number;
-  article: Article[];
+  articles: Article[];
 }
